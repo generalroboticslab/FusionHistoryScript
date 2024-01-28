@@ -8,7 +8,7 @@ This script is designed to scrape design history and model specifications for yo
 - **CSV File Path Configuration:** Before the script can function on your machine, edit **line 95** to specify the complete path where the CSV file created by the script will be stored.
 
 ## Video Tutorial
-For a detailed walkthrough, watch the video tutorial here: [Video Tutorial](https://drive.google.com/file/d/1MCN9y8OajH9SF0icqAJkulr6aeSQXWuJ/view?usp=sharing)
+For a detailed walkthrough, watch the video tutorial here: [Video Tutorial](https://www.youtube.com/watch?v=NA3KkmzRYl4)
 
 ## Setup and Usage Steps
 1. **Verify Design History:** Ensure 'Capture Design History' is enabled before starting your CAD work.
