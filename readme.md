@@ -15,7 +15,7 @@ For a detailed walkthrough, watch the video tutorial here: [Video Tutorial](http
 2. **Access Utilities Menu:** In Fusion 360, go to the Utilities Menu and select 'Add-Ins.'
 3. **Create New Script:** Click 'Create' to make a new script. Choose Python as the programming language and name your script.
 4. **Save Script:** Press Enter to save your new script.
-5. **Edit Script in VS Code:** Select 'EDIT' to open the script in Visual Studio Code (VS Code). Install VS Code if prompted.
+5. **Edit Script in VS Code:** Select 'Edit' to open the script in Visual Studio Code (VS Code). Install VS Code if prompted.
 6. **Paste Script Content:** Copy and paste the contents of `FusionHistoryScript.py` into your newly created script.
 7. **Configure CSV File Path:** Modify line 95 in the script to indicate the complete path for storing the generated CSV file.
 8. **Save Changes:** Use Ctrl-S to save the file in VS Code, then close the editor.
