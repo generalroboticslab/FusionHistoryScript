@@ -93,6 +93,7 @@ def run(context):
         msg = populateStr(tlObj)
 
         # CHANGE THIS TO THE FULL PATH OF DESIRED .CSV LOCATION
+        # Make sure there is a backslash(s) after the final folder in the path location
         csv_path = "C:\\Users\\zacha\\Desktop\\"
 
         filename = os.path.expanduser(csv_path + app.activeDocument.dataFile.name + "_complete_history.csv")
